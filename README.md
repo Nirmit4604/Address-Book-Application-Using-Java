@@ -22,9 +22,6 @@ The Address Book application provides the following functionalities:
 ## How to Run
 
 1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/nirmittandel/AddressBookApp.git
-    ```
 
 2. **Set up the database**:
     - Make sure you have MySQL installed.
